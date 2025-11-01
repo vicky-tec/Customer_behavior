@@ -86,6 +86,7 @@ The dataset contains transactional-level customer shopping information, includin
 - Prepare a concise **project report** summarizing insights and KPIs  
 - Design a **presentation deck using Gamma AI** highlighting business outcomes  
 
+ ![Overall](500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654.png)
 ---
 
 ## 📊 Dashboard Preview  
