@@ -93,7 +93,7 @@ The dataset contains transactional-level customer shopping information, includin
 
 > *(Insert Power BI dashboard screenshot below)*  
 >  
-> ![Power BI Dashboard Preview](assets/dashboard-preview.png)
+> ![Power BI Dashboard Preview](assetsdashboard-preview.png)
 
 ---
 
